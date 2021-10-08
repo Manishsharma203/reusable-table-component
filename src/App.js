@@ -31,8 +31,6 @@ function App() {
           console.error(results.errors);
           return;
         }
-        // const filteredData = results.data.filter((e, i) => i < 100);
-        // setData(filteredData);
         setData(results.data)
         setDataLoading(false);
       },
