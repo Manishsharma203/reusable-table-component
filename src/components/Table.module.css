@@ -1,0 +1,23 @@
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+.activeButton{
+    margin: 2px;
+    padding: 8px;
+    font-size: 12px;
+    color: white;
+    background-color:lightseagreen;
+}
+.nonActiveButton{
+    margin: 2px;
+    padding: 8px;
+    font-size: 12px;
+    background-color: white;
+    color:black;
+}
+.normalButton{
+    margin: 2px;
+    padding: 8px 20px;
+    font-size: 12px;
+}
