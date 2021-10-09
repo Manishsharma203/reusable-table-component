@@ -1,5 +1,7 @@
 # Reusable React Table
 
+### Demo
+[https://reusable-react-table-manish.netlify.app/](https://reusable-react-table-manish.netlify.app/)
 ### How to use
 Follow these steps to implement a reusable table component
 1. Clone the repo
